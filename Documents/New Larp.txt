@@ -1,0 +1,100 @@
+NOTE: Mixed classes just change base package stuff and talents already taken may change.  NOT A NEW TREE.  Requires both secondaries maxed
+NOTE: Mastery will take as much as another secondary all the way up
+
+Rogue - Toxins - using potion bottle applies uses
+Main Paths: Survivalist/Marksman/Assassin (bows and daggers)
+	-Disarm
+	-Weaken (reduce damage)
+	-Maim
+Master Paths: Ranger/Sniper/Ninja
+	
+Mage - Overcharge - can overcharge spells to do more damage, or add healing to a pool (ex, charge up to 25 healing, use as you wish)
+Main Paths: Elementalist(split Atmospheric (water/lightning) or Siesmic (earth/fire) ways immediately, but can use all elemental types.  Takes as long to master all 4 as one path)/Arcanist/Ritualist (Split Empowerment or Enfeeblement immediately.  Takes as long to master both as it does any other path) (1h or 2h foci and 1h sharp/shields)
+	-Disarm
+	-Silence 
+	-Maim
+Master Paths: Sorcerer/Archon(Savant/Scion?)/Observant(?)
+	
+Figther - Fury - empowers abilities from either taking or mitigating damage
+Main Paths: Guardian/Duelist/Berserker (any weapons/shields)
+	-Disarm
+	-Ruin
+	-Maim	
+Master Paths: Bastion/Champion/Titan
+	
+Disciple - Meditate - can meditate on certain abilities prior to use to increase effect
+Main Paths: Disciple of Order/Monk (staff or fists)/Disciple of Chaos (ex: resurrect by pulling someone from alternate timeline) (blunt/light sharp)
+	-Disarm
+	-Exile (cannot be healed by Disciples until rest)
+	-Maim
+Master Paths: Reclaimer/Ascendant/Herald
+	
+	
+Rogue/Disciple
+	Suvivalist/Monk - Wylde (fists)
+	Marksman/Order - Druid (range or staff)
+	Assassin/Chaos - Reaper (2h sharp or daggers)
+Rogue/Mage
+	Survivalist/Elementalist - Primalist
+	Marksman/Ritualist - Bard
+	Assassin/Arcanist - Shade
+Rogue - Survivalist/Fighter - Duelist = Fencer
+
+Mage/Rogue
+	Elementalist/Survivalist - Primalist
+	Assassin/Arcanist - Shade
+	Ritualist/Marksman - Bard
+Mage/Fighter
+	Elementalist/Guardian - Runeist
+	Arcanist/Duelist - Enhancer
+	Ritualist/Berserker - Savage
+Mage - Ritualist/Disciple - Chaos = Anomalist
+
+Fighter/Mage
+	Guardian/Elementalist - Runeist
+	Duelist/Arcanist - Enhancer
+	Berserker/Ritualist - Savage
+Fighter/Disciple
+	Guardian/Order - Templar
+	Duelist/Monk - Brawler
+	Berserker/Chaos - Ravager
+Fighter - Duelist/Rogue - Survivalist = Fencer
+
+Disciple/Fighter
+	Order/Guardian - Templar
+	Monk/Duelist - Brawler
+	Chaos/Berserker - Ravager
+Disciple/Rogue
+	Order/Marksman - Druid (range or staff)
+	Monk/Survivalist - Wylde (fists)
+	Chaos/Assassin - Reaper (2h sharp or dual daggers)
+Disciple - Chaos/Mage - Ritualist = Anomalist
+
+
+Races:
+Human-
+Commoner/Nomad/Tribesman
+
+Greenskins-
+Orc/Ogre/Goblin
+
+Smallfolk-
+Dwarf/Gnome/Halfling
+
+Therians-
+Lycan (wolf)/Ailuran (cat)/Tetra (other mammals)/Ecto (insect)/Arach (spider)/Sauro (reptillian)/Avia (birds)
+
+Fae-
+Seelie (Spring/Summer - Order)/Unseelie (Autumn/Winter - Chaos)
+
+Constructs-
+Golem/Wisp/Homunculus
+
+Sylvan-
+Elf (all varieties)/Faun/Spriggan/Dryad
+
+Chaotic-
+Patchwork (chaos doll)/Umbra(Umbrae [pl]) (shadow from other realm - chaos tried to revive someone not dead)/Returned
+
+Ordaic-
+Lifesewn (order doll)/Lambien (order resurrect when chaos took the Umbra)

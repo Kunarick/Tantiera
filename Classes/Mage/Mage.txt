@@ -1,0 +1,11 @@
+Mages are masters of the magical arts.  They study various schools
+of magic to enhance their powers, weaken their enemies, and increase
+their allies' abilities.  There are three main types of Magi:
+Arcanists, Elementalists, and Ritualists.
+
+Damage:
+	(Packet)At Will - 1 Spell
+Abilities:
+	(Packet)1 Charge - Snare
+	(Packet)1 Charge - Disarm
+	(Packet)3 Charges - Silence
